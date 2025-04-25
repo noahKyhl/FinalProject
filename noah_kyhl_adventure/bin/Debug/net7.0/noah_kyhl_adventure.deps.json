@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "noah_kyhl_adventure/1.0.0": {
+        "runtime": {
+          "noah_kyhl_adventure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "noah_kyhl_adventure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
